@@ -1,4 +1,4 @@
-spring
+spring:
   datasource:
     username: springadmin
     password: kravchenko
